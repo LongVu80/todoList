@@ -33,3 +33,7 @@ input[type="button"] {
     margin: -6px 4px 0px 0px;
   }
 
+  .red{
+    background-color: red;
+}
+
